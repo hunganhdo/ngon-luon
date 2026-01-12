@@ -1,0 +1,22 @@
+/* general-style.css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #FEC51C; /* Màu vàng chủ đạo */
+    font-weight: 700;
+}
+
+.stButton>button {
+    background-color: #FEC51C;
+    color: black;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+.stButton>button:hover {
+    background-color: #e6b219;
+}

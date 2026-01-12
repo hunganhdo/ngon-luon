@@ -6,3 +6,4 @@ plotly
 streamlit-webrtc
 av
 ultralytics
+streamlit-navigation-bar
