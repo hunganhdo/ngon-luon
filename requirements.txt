@@ -1,9 +1,9 @@
-opencv-python-headless
 streamlit
+ultralytics
+opencv-python-headless
 pillow
 numpy
-plotly
+pandas
 streamlit-webrtc
 av
-ultralytics
-streamlit-navigation-bar
+streamlit-option-menu
