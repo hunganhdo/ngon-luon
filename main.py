@@ -92,5 +92,5 @@ elif selected == "Github":
     st.title("📂 Source Code")
     st.markdown("""
     ### 🔗 GitHub Repository
-    Truy cập mã nguồn gốc tại: [github.com/nvhnam/fooddetector](https://github.com/hunganhdo/fooddetector)
+    Truy cập mã nguồn gốc tại: [github.com/hunganhdo/fooddetector](https://github.com/hunganhdo/fooddetector)
     """)
